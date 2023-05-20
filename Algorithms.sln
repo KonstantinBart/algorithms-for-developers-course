@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "algorithms_1", "algorithms_1\algorithms_1.csproj", "{BDCF2DD2-0398-4827-B9F8-93F82EDB8B60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmsTestsProject_1", "AlgorithmsTestsProject_1\AlgorithmsTestsProject_1.csproj", "{91DF62E2-4639-430F-B1E3-B70840989F51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDCF2DD2-0398-4827-B9F8-93F82EDB8B60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDCF2DD2-0398-4827-B9F8-93F82EDB8B60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDCF2DD2-0398-4827-B9F8-93F82EDB8B60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDCF2DD2-0398-4827-B9F8-93F82EDB8B60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91DF62E2-4639-430F-B1E3-B70840989F51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91DF62E2-4639-430F-B1E3-B70840989F51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91DF62E2-4639-430F-B1E3-B70840989F51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91DF62E2-4639-430F-B1E3-B70840989F51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
